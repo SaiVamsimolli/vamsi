@@ -1,6 +1,6 @@
 import openai
 from toolkit import texttospeech as tts
-openai.api_key = "pk-MzATQIcWDTIRTnUUxCtxiJNrOaOckEPbKbfeCSPpXmtoXXsP"
+openai.api_key = ""
 openai.api_base = "https://api.pawan.krd/pai-001-light-beta/v1"
 
 print("Hi there! I'm PAI bot. How can I assist you today?")
